@@ -2,6 +2,7 @@ hola esta es mi bibliografia
 
 Ya estoy programando en git
 
-esta es la nueva entrada
+esta fue la entrada anterior
 
 aqui viene la cuarta linea
+esta sera la 8va linea y el 5to cambio
